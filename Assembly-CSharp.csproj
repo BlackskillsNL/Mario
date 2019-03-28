@@ -58,6 +58,7 @@
      <Compile Include="Assets\AlpacaStudio_Menu_Template\Scripts\Music_Player.cs" />
      <Compile Include="Assets\AlpacaStudio_Menu_Template\Scripts\Sound_Controller.cs" />
      <Compile Include="Assets\click.cs" />
+     <Compile Include="Assets\lvlupsound.cs" />
      <Compile Include="Assets\New Script\CameraSystem.cs" />
      <Compile Include="Assets\New Script\Player_health - kopie.cs" />
      <Compile Include="Assets\New Script\PlayerMovement - kopie.cs" />

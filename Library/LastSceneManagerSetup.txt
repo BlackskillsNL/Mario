@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AlpacaStudio_Menu_Template/Examples/Standalone.unity
+- path: Assets/Scenes/Level 1.unity
   isLoaded: 1
   isActive: 1
